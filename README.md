@@ -15,3 +15,6 @@ This example is build from 《Train To Busan》, you can download the script fro
 
 # License
 All codes in this repository are licensed under the terms you may find in the file named "LICENSE" in this directory.
+
+# 授权声明
+我已授权[实验楼](https://www.shiyanlou.com/)使用此仓库中的代码并发表此项目教程，你可以在这里查看对应的[教程](https://www.shiyanlou.com/courses/677)。

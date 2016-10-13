@@ -1,14 +1,10 @@
 import os, sys
 import jieba, codecs, math
 import jieba.posseg as pseg
-import win32com.client
-
 
 names = {}
 relationships = {}
 lineNames = []
-
-sameNameSet = []
 
 # count names
 jieba.load_userdict("dict.txt")
