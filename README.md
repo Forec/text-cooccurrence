@@ -1,6 +1,6 @@
 # Text Cooccurrence Example（文本共现网络提取示例）
-> This repository is just an example for the simplest text cooccurrence network capture, I wrote a tutorials at [here](#TODO).  
-I also wrote an article talking about basic coocurrence network capture at my [blog](https://forec.github.io/2016/10/03/co-occurrence-structure-capture/).  
+> This repository is just an example for the simplest text cooccurrence network capture, I wrote a tutorials at [here](https://www.shiyanlou.com/courses/677).  
+I also wrote an article talking about basic coocurrence network capture at my [blog](http://blog.forec.cn/2016/10/03/co-occurrence-structure-capture/).  
 If you have any problems/ideas, please [contact me](mailto:forec@bupt.edu.cn), or open your PR. I feel honored to learn from your help.
 
 ## Platform
